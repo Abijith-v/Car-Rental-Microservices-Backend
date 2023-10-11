@@ -8,6 +8,6 @@ Microservices -
 - JWT Token Management Service -> https://github.com/Abijith-v/Token-Serivice-Springboot
 - Payments Service ->
 
-  Tech Stacks
+  Tech Stacks :
   Java, SpringBoot, PostgreSQL, MongoDB, Redis, Kafka MQ
   
